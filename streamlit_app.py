@@ -217,3 +217,4 @@ st.markdown('''
 txt2('LinkedIn', 'https://www.linkedin.com/in/weicheng611/')
 txt2('GitHub', 'https://github.com/chengwei0815/')
 txt2('Portfolio', 'https://wei-cheng.streamlit.app/')
+txt2('tableau', 'https://public.tableau.com/app/profile/wei.cheng7743/vizzes')
